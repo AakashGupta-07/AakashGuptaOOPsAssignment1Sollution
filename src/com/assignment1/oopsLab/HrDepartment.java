@@ -1,6 +1,7 @@
 package com.assignment1.oopsLab;
 
-public class HrDepartment extends SuperDepartment { // SUB CLASS OR CHILD CLASS
+public class HrDepartment extends SuperDepartment
+           { // SUB CLASS OR CHILD CLASS
 	void departmantName() { // 4 METHODS OF RETURN TYPE STRING - NOT ACCEPT ANY PARAMETER
 		System.out.println("Welcome to HRDepartment");
 	}
