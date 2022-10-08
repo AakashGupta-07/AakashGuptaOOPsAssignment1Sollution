@@ -13,7 +13,7 @@ public class TechnicalDepartment extends SuperDepartment { // SUB CLASS OR CHILD
 		System.out.println("Complete by EOD");
 	}
 
-	void getTechStachInformation() {
+	void getTechStackInformation() {
 		System.out.println("core Java");
 
 	}
