@@ -30,7 +30,7 @@ public class DriverCode {
 	}
 
 	static void holiday() {
-		System.out.println("Today is not a holiday"); // DISPLAYIMG "TODAY IS NOT A HOLIDAY WITHOUT THE HELP OF SUPER
+		System.out.println("Today is not a holiday"); // DISPLAYING "TODAY IS NOT A HOLIDAY WITHOUT THE HELP OF SUPER
 														// CLASS
 	}
 }
